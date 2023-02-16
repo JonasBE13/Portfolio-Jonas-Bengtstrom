@@ -14,8 +14,8 @@
 
 
 
-| Repo                           | Description                        |
-| ------------------------------ | ---------------------------------- |
+| Repo                           | Description                        | Course  |
+| ------------------------------ | ---------------------------------- | ------- |
 | [Deep learning]           | Under construction. Link to be added.               |
 | [Machine learning](https://github.com/JonasBE13/machine-learning-jonas-bengtstrom)        | Start of my Machine learing course.
 | [Data analysis]           | Under construction. Link to be added.
