@@ -20,7 +20,7 @@
 | [Machine learning](https://github.com/JonasBE13/machine-learning-jonas-bengtstrom)        | Start of my Machine learning course.
 | [Data analysis]           | Under construction. Link to be added.
 | [Python programming](https://github.com/JonasBE13/Python-Jonas-Bengtstrom)    | introduction course                |
-| [Statistics and analysis](https://github.com/JonasBE13/Statistics-and-analysis)| Statistics course with SciPy| Statistics and analysis
+| [Statistics and analysis](https://github.com/JonasBE13/Statistics-and-analysis)| Statistics course with SciPy| Statistics and analysis | [Iris project, correlation and analysis](https://github.com/JonasBE13/Statistics-and-analysis/blob/master/Statistics%20and%20analysis/assignment.ipynb)
 
 
 
