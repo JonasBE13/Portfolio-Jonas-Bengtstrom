@@ -5,7 +5,7 @@
 
 # Jonas Bengtström 
 
-![linkedin](https://www.linkedin.com/in/jonas-bengtstr%C3%B6m-74108524a/)
+![linkedin](assets/linkedIn-icon.png, https://www.linkedin.com/in/jonas-bengtstr%C3%B6m-74108524a)
 
 ---
 
