@@ -1,4 +1,8 @@
+<div style="width:200px; height:100px">
+
 ![](assets/profilbild.png)
+
+</div>
 
 # Jonas Bengtström 
 
@@ -7,6 +11,7 @@
 ---
 
 ## GitHub portfolio :briefcase:
+
 
 
 
