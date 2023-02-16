@@ -14,13 +14,13 @@
 
 
 
-| Repo                           | Description                        | Course  |
-| ------------------------------ | ---------------------------------- | ------- |
+| Repo                           | Description                        | Course  | Projects |
+| ------------------------------ | ---------------------------------- | ------- | -------- |
 | [Deep learning]           | Under construction. Link to be added.               |
-| [Machine learning](https://github.com/JonasBE13/machine-learning-jonas-bengtstrom)        | Start of my Machine learing course.
+| [Machine learning](https://github.com/JonasBE13/machine-learning-jonas-bengtstrom)        | Start of my Machine learning course.
 | [Data analysis]           | Under construction. Link to be added.
 | [Python programming](https://github.com/JonasBE13/Python-Jonas-Bengtstrom)    | introduction course                |
-| [Statistics and analysis](https://github.com/JonasBE13/Statistics-and-analysis)          | Statistics course with [Iris project](https://github.com/JonasBE13/Statistics-and-analysis/blob/master/Statistics%20and%20analysis/assignment.ipynb)
+| [Statistics and analysis](https://github.com/JonasBE13/Statistics-and-analysis)| Statistics course with SciPy| Statistics and analysis
 
 
 
