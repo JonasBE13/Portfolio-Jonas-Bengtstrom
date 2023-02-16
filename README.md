@@ -16,10 +16,10 @@
 
 | Repo                           | Description                        | Course  | Projects |
 | ------------------------------ | ---------------------------------- | ------- | -------- |
-| [Deep learning]           | Under construction. Link to be added.               |
-| [Machine learning](https://github.com/JonasBE13/machine-learning-jonas-bengtstrom)        | Start of my Machine learning course.
-| [Data analysis]           | Under construction. Link to be added.
-| [Statistics and analysis](https://github.com/JonasBE13/Statistics-and-analysis)| Statistics course with SciPy| Statistics and analysis | [Iris project, correlation and analysis](https://github.com/JonasBE13/Statistics-and-analysis/blob/master/Statistics%20and%20analysis/assignment.ipynb)
+| [Deep learning]           | Under construction. Link to be added. Course starting on 17/4/2023.              | Deep Learning
+| [Machine learning](https://github.com/JonasBE13/machine-learning-jonas-bengtstrom)        | Start of my Machine learning course.|Machine Learing|
+| [Data analysis](https://github.com/JonasBE13/Databehandling-Jonas-Bengtstrom)           | Project with an analysis of covid-19 data in Sweden.|Data Analysis|[Some laborations.](https://github.com/JonasBE13/Databehandling-Jonas-Bengtstrom/tree/main/LABB%201) Note: PX-graphs won't display on GitHub.|
+| [Statistics and analysis](https://github.com/JonasBE13/Statistics-and-analysis)| Statistics course with SciPy| Statistics and Analysis | [Iris project, correlation and analysis](https://github.com/JonasBE13/Statistics-and-analysis/blob/master/Statistics%20and%20analysis/assignment.ipynb)
 | [Python programming](https://github.com/JonasBE13/Python-Jonas-Bengtstrom)    | Introduction to python| Python Programming | [My first machine learning project](https://github.com/JonasBE13/Python-Jonas-Bengtstrom/blob/main/Labb%202/Labb2-FINISHED-SOLUTION.ipynb) |
 
 
