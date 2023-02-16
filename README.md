@@ -1,8 +1,7 @@
-<div style="width:200px; height:100px">
 
-![](assets/profilbild.png)
+<img src="assets/profilbild.png" width="250">
 
-</div>
+
 
 # Jonas Bengtström 
 
