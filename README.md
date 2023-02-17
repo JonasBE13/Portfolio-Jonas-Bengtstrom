@@ -10,7 +10,7 @@
 ---
 ## Packages
 <img src="assets/matplotlib2.png" width="30" alt="Matplotlib icon" title="Matplotlib">
-
+<img src="assets/pandas.png" height="30" alt="Pandas icon" title="Pandas">
 
 ---
 
