@@ -9,7 +9,7 @@
 
 ---
 ## Packages
-<img src="assets/matplotlib2.png" width="30" alt="Matplotlib icon">
+<img src="assets/matplotlib2.png" width="30" alt="Matplotlib icon" title="Matplotlib">
 
 
 ---
